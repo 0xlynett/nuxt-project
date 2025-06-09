@@ -2,6 +2,8 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+(Note from Lyn: I'm doing this to learn Vue and Nuxt)
+
 ## Setup
 
 Make sure to install dependencies:
